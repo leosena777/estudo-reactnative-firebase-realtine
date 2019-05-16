@@ -1,1 +1,1 @@
-# estudo-reactnative-firebase-realtine
+# Estudo de ReactNative com banco de dados Firebase com realtime
